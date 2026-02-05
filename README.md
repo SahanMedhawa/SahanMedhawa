@@ -110,31 +110,6 @@
 
 ---
 
-<h2 align="center">🎓 Education</h2>
-
-<table align="center">
-<tr>
-<td align="center">🏛️</td>
-<td><b>Sri Lanka Institute of Information Technology (SLIIT)</b></td>
-<td>B.Sc. (Hons) in IT - Software Engineering</td>
-<td>2023 - 2027</td>
-</tr>
-<tr>
-<td align="center">🎓</td>
-<td><b>University of Sri Jayewardenepura</b></td>
-<td>B.Sc. in Physics and ICT</td>
-<td>2024 - 2027</td>
-</tr>
-<tr>
-<td align="center">📚</td>
-<td><b>Royal College Colombo</b></td>
-<td>Secondary Education - Mathematics Stream</td>
-<td>2012 - 2020</td>
-</tr>
-</table>
-
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -146,7 +121,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanMedhawa&theme=tokyonight&hide_border=false" />
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SahanMedhawa&theme=tokyonight&hide_border=false&layout=compact&langs_count=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanMedhawa&theme=tokyonight&hide_border=false&layout=compact&langs_count=10"/>
 </td>
 </tr>
 </table>
