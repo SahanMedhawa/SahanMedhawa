@@ -32,7 +32,7 @@
 - 🚀 Experienced with **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - 🔧 Proficient in **Backend Systems**, **RESTful APIs**, and **Database Design**
 - 🤝 Strong believer in **Agile methodologies** and **Team Collaboration**
-- 🎯 Problem-solver with hands-on experience in **real-world software projects**
+- 🎯 Eager to apply my skills to **real-world software projects**
 - 🌱 Currently exploring **Cloud Technologies** and **System Design**
 - ⚡ Fast learner with excellent **time & workload management** skills
 
@@ -180,7 +180,7 @@
 
 <p align="center">
 I'm an enthusiastic <b>Software Engineering undergraduate</b> at SLIIT with a strong foundation in programming, data structures, and problem-solving.<br>
-With a <b>3.83 GPA</b> and consistent <b>Dean's List</b> recognition, I'm passionate about building <b>scalable web applications</b> and <b>full-stack solutions</b>.<br>
+I'm passionate about building <b>scalable web applications</b> and <b>full-stack solutions</b>.<br>
 I thrive in <b>collaborative team environments</b> and enjoy working with <b>Agile methodologies</b> to deliver impactful software projects. 🚀
 </p>
 
