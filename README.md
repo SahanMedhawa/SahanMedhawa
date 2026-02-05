@@ -113,18 +113,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahanMedhawa&theme=tokyonight&show_icons=true&count_private=true" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanMedhawa&theme=tokyonight&hide_border=false" />
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanMedhawa&theme=tokyonight&hide_border=false&layout=compact&langs_count=10"/>
-</td>
-</tr>
-</table>
+  <img src="https://github-readme-stats.vercel.app/api?username=SahanMedhawa&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanMedhawa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanMedhawa&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
