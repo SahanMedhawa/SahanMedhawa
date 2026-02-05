@@ -112,16 +112,17 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahanMedhawa&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <a href="https://github.com/SahanMedhawa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SahanMedhawa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanMedhawa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanMedhawa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanMedhawa&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/SahanMedhawa">
+    <img src="https://streak-stats.demolab.com/?user=SahanMedhawa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </p>
 
 ---
