@@ -26,8 +26,7 @@
 <tr>
 <td width="50%" align="left">
 
-- 🎓 **Software Engineering** undergraduate at **SLIIT** with a **3.83 GPA**
-- 🏆 Consistent **Dean's List** recognition every semester
+- 🎓 **Software Engineering** undergraduate at **SLIIT**
 - 📚 Also pursuing **B.Sc. in Physics & ICT** at **University of Sri Jayewardenepura**
 - 💻 Passionate about **Full-Stack Development** and **Scalable Web Applications**
 - 🚀 Experienced with **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
